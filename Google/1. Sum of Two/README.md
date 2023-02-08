@@ -6,3 +6,6 @@ For example, given <span style='background-color: #F7DDBE'>[10, 15, 3, 7]</span>
 
 
 ### Process
+
+Brute-Force Search might be the easiest way(thinking of the idea or implementation, whatever) to solve this problem, but it's time complexity is **O(N^2)**.
+
