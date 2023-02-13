@@ -12,7 +12,7 @@ class Node:
         
 The following test should pass:
 
-node = Node('root', Node('left', Node('left.left')), Node('right'))
+node = Node('root', Node('left', Node('left.left')), Node('right'))</br>
 assert deserialize(serialize(node)).left.left.val == 'left.left'
 
 # Process
