@@ -4,11 +4,11 @@ Given the root to a binary tree, implement serialize(root), which serializes the
 
 For example, given the following Node class
 
-class Node:
-    def __init__(self, val, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+class Node:</br>
+    def __init__(self, val, left=None, right=None):</br>
+        self.val = val</br>
+        self.left = left</br>
+        self.right = right</br>
         
 The following test should pass:
 
